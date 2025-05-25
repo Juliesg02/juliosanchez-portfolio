@@ -47,7 +47,14 @@ Built using **Swift**, simulating real-world biology labs
 ✅ Includes techno-economic analysis, sustainability, and process design  
 Built with expertise in **bioprocess engineering**, **fermentation**, and **green technology**  
 
----
+### 📝 [Memoira](https://github.com/Juliesg02/MemoryClassifier)  
+*Emotion-aware iOS journaling app powered by Natural Language Processing*  
+✅ Add, edit, and filter daily memories by emotional tone  
+✅ Emoji-based classification using Swift’s Natural Language Framework  
+✅ Accessibility-friendly with VoiceOver support  
+Built with **Swift**, **Natural Language**, and a focus on **mental wellness**
+
+
 
 ## 📫 Connect With Me
 
