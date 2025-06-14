@@ -27,6 +27,12 @@ I care deeply about:
 
 ## 🧪 Featured Projects
 
+### 🩺 [Ploppy - Your Daily Poop Log](https://apps.apple.com/mx/app/ploppy-your-daily-poop-log/id6746436956?l=en-GB)
+*Apple Watch app for gut health tracking*  
+✅ Simple bowel movement logging and tracking  
+✅ KPI dashboard to visualize habits and patterns over time  
+✅ Supports self-awareness for users managing bowel issues or intestinal discomfort  
+Built with **Swift**, **SwiftData**, and **Apple WatchKit**
 
 ### 🚀 Ombrace
 *Multilingual iOS + watchOS app for body reconnection & self-compassion*  
