@@ -26,6 +26,12 @@ I care deeply about:
 ---
 
 ## 🧪 Featured Projects
+### 💎 [Gemify - Craft your own gems](https://apps.apple.com/mx/app/gemify-craft-your-own-gems/id6753974353?l=en-GB)
+*Vision Pro educational game for learning chemistry concepts*  
+✅ Intuitive hand-gesture interactions for immersive gameplay  
+✅ Spatial audio feedback to reinforce user actions  
+✅ Real-time visual feedback to support learning and engagement  
+Built with **Swift** and **visionOS**
 
 ### 🩺 [Ploppy - Your Daily Poop Log](https://apps.apple.com/mx/app/ploppy-your-daily-poop-log/id6746436956?l=en-GB)
 *Apple Watch app for gut health tracking*  
