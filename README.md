@@ -47,7 +47,7 @@ Human-subjects HCI experiment comparing the two FOXR interaction protocols acros
 - ✅ Targeting submission to IEEE International Conference on Telepresence 2026
 *Built with Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn*
 
-### 🚀 Kinich Space Program
+### 🚀 [Kinich Space Program](https://github.com/Juliesg02/Rocket_Simulator)
 Indie visionOS physics sandbox game where the user pilots a rigid-body rocket through a multi-planet scene using bare-hand gestures.
 - ✅ Full RealityKit Entity-Component-System architecture
 - ✅ Inverse-square gravity with Sphere-of-Influence (SOI) transitions
