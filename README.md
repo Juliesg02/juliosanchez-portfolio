@@ -62,7 +62,8 @@ Indie visionOS physics sandbox game where the user pilots a rigid-body rocket th
 ✅ Real-time visual feedback to support learning and engagement  
 Built with **Swift** and **visionOS**
 
-### 🩺 [Ploppy - Your Daily Poop Log](https://apps.apple.com/mx/app/ploppy-your-daily-poop-log/id6746436956?l=en-GB)
+### 🩺 [Ploppy - Your Daily Poop Log](https://apps.apple.com/mx/app/ploppy-track-your-plops/id6780933812?l=en-GB)
+
 *Apple Watch app for gut health tracking*  
 ✅ Simple bowel movement logging and tracking  
 ✅ KPI dashboard to visualize habits and patterns over time  
