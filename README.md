@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Julio Sánchez
 
-🎓 Biotechnology Engineer | 💻 Developer @ Apple Developer Academy | 🧠 AI & Data Enthusiast  
-🌍 Currently based in Naples, Italy  
+🎓 Biotechnology Engineer &nbsp;|&nbsp; 💻 Spatial Computing Researcher @ Apple Developer Academy &nbsp;|&nbsp; 🧠 Data Analytics & AI Tools Minor
 
 ---
 
@@ -12,20 +11,50 @@ My journey has taken me from coding biological factories to coding computers.
 
 I care deeply about:
 - Exploring uncharted territories with curiosity and passion
-- Designing technologies that support human growth and well-being  
+- Designing technologies that support human growth and well-being
+- Failing fast, iterating, and celebrating mistakes as part of the process
   
 ---
+**Languages** &nbsp; `Swift` · `Python` · `SQL` · `HTML/CSS` · `MATLAB` · `Arduino (C/C++)`
 
-## 🛠️ Skills
+**Frameworks & Libraries** &nbsp; `SwiftUI` · `RealityKit` · `ARKit` · `PencilKit` · `SwiftData` · `WatchKit` · `Pandas` · `NumPy` · `SciPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
 
-- **Software**: Python (Proficient), Swift (Intermediate), SQL, HTML/CSS, MATLAB, Minitab
+**Tools** &nbsp; `Xcode` · `Reality Composer Pro` · `Figma` · `Jira` · `Git` · `Power BI` · `Jupyter` · `Benchling`
 
-- **Knowledge Areas**:
-  - **Coding & Tech**: App Development, Data Analytics, Data Visualization, Machine Learning (Basics), UI/UX
-  - **Biotechnology**: Synthetic Biology, Genetic Engineering, Bioinformatic Principles, Bioprocesses, Fundamentals of Bioprocesses, Laboratory Techniques  
+**Knowledge Areas**
+- *Spatial Computing:* visionOS, hand tracking, physics simulation, ECS architecture, HCI research
+- *Swift & Apple Platforms:* iOS, watchOS, visionOS, App Store deployment, accessibility, Core ML
+- *Data & AI:* Data analytics, machine learning, data visualization, CRISP-DM, statistical analysis
+- *Biotechnology:* Synthetic biology, bioprocess engineering, bioinformatics, laboratory techniques
 ---
 
 ## 🧪 Featured Projects
+
+### 🤖 [FOXR — Teleoperated Robot Control](https://github.com/OmenDevs/xr_tele_locomotion)
+visionOS research app for teleoperating a humanoid robot using hand gestures and a real-time video feed — no external equipment required.
+- ✅ Two custom hand-tracking interaction protocols (Joystick and Astrolabium)
+- ✅ Live first-person robot camera feed streamed into the headset
+- ✅ Real-time telemetry visualization with Swift Charts
+- ✅ WebRTC Python server for bidirectional robot communication
+- ✅ Published on the App Store · Open-source
+*Built with Swift, SwiftUI, RealityKit, ARKit, Python (aiortc), CycloneDDS*
+
+### 🔬 Locomotion Protocol Comparative Study *(ongoing)*
+Human-subjects HCI experiment comparing the two FOXR interaction protocols across objective and subjective dimensions.
+- ✅ Within-subjects counterbalanced design · 17 participants
+- ✅ Instruments: NASA-TLX, SSQ, SUS, SART
+- ✅ Python data analysis pipeline: behavioral metrics, Pearson correlation, command stream analysis
+- ✅ Targeting submission to IEEE International Conference on Telepresence 2026
+*Built with Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn*
+
+### 🚀 Kinich Space Program
+Solo visionOS physics sandbox where the user pilots a rigid-body rocket through a multi-planet scene using bare-hand gestures.
+- ✅ Full RealityKit Entity-Component-System architecture
+- ✅ Inverse-square gravity with Sphere-of-Influence (SOI) transitions
+- ✅ Custom two-hand gesture protocol for thrust, steering, and orientation
+- ✅ Quaternion-based orientation with hemisphere-boundary correction
+*Built with Swift, SwiftUI, RealityKit (ECS, dynamic physics), ARKit*
+
 ### 💎 [Gemify - Craft your own gems](https://apps.apple.com/mx/app/gemify-craft-your-own-gems/id6753974353?l=en-GB)
 *Vision Pro educational game for learning chemistry concepts*  
 ✅ Intuitive hand-gesture interactions for immersive gameplay  
