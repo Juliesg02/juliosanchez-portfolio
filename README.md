@@ -48,7 +48,7 @@ Human-subjects HCI experiment comparing the two FOXR interaction protocols acros
 *Built with Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn*
 
 ### 🚀 Kinich Space Program
-Solo visionOS physics sandbox where the user pilots a rigid-body rocket through a multi-planet scene using bare-hand gestures.
+Indie visionOS physics sandbox game where the user pilots a rigid-body rocket through a multi-planet scene using bare-hand gestures.
 - ✅ Full RealityKit Entity-Component-System architecture
 - ✅ Inverse-square gravity with Sphere-of-Influence (SOI) transitions
 - ✅ Custom two-hand gesture protocol for thrust, steering, and orientation
